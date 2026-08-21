@@ -1,0 +1,9 @@
+# C/C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/*
+!.vscode/tasks.json
